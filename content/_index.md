@@ -2,7 +2,7 @@
 title = "Experience"
 template = "index.html"
 transparent = true
-sort_by = "date"
+sort_by = "weight"
 paginate_by = 10
 +++
 
