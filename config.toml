@@ -4,7 +4,7 @@ description = "My Resume"
 base_url = "https://www.vdaa.website"
 theme = "anatole-zola"
 highlight_theme = "base16-ocean-light"
-generate_feed = true
+generate_feed = false
 default_language = "en"
 
 taxonomies = [
