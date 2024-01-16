@@ -1,0 +1,31 @@
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '.gitignore'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Build static site
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+            submodules: true
+      - uses: taiki-e/install-action@v2
+        name: Install Zola
+        with:
+          tool: zola
+      - name: Build with Zola
+        run: zola build
+      - name: Upload GitHub Pages artifact
+        id: upload
+        uses: actions/upload-pages-artifact@v3
+        with: 
+          path: public/
+      - name: Deploy GitHub Pages site
+        uses: actions/deploy-pages@v4
+        
+      
