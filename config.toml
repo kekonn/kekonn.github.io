@@ -24,8 +24,8 @@ highlight_code = true
 
 [languages.en.translations]
 language_name = "English"
-about = "About"
-home = "Home"
+about = "About Me"
+home = "Experience"
 tags = "Tags"
 archive = "Archive"
 links = "Links"
@@ -39,6 +39,7 @@ last_page = "Last Page"
 [extra.show]
 tags = true
 links = true
+archive = false
 
 [extra.social]
 github = "kekonn"

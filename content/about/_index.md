@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "About Me"
 template = "about.html"
 paginate_by = 0
 +++

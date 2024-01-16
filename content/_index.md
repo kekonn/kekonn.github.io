@@ -1,5 +1,5 @@
 +++
-title = "index"
+title = "Experience"
 template = "index.html"
 transparent = true
 sort_by = "date"
