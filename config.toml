@@ -6,7 +6,6 @@ theme = "anatole-zola"
 highlight_theme = "base16-ocean-light"
 generate_feed = true
 default_language = "en"
-output_dir = "docs"
 
 taxonomies = [
     {name = "tags"},
