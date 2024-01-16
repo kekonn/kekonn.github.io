@@ -36,14 +36,7 @@ last_page = "Last Page"
 
 [extra.show]
 tags = true
-links = true
+links = false
 
 [extra.social]
-github = ""
-twitter = "w"
-facebook = ""
-instagram = "r"
-dribbble = "t"
-weibo = "y"
-linkedin = ""
-flickr = ""
+github = "https://github.com/kekonn"
