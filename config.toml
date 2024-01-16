@@ -1,0 +1,49 @@
+# The URL the site will be built for
+base_url = "https://www.vdaa.website"
+theme = "anatole-zola"
+highlight_theme = "base16-ocean-light"
+generate_feed = true
+default_language = "en"
+
+taxonomies = [
+    {name = "tags"},
+]
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[languages.en.translations]
+language_name = "English"
+about = "About"
+home = "Home"
+tags = "Tags"
+archive = "Archive"
+links = "Links"
+date_format = "%Y-%m-%d"
+next_page = "Next Page"
+last_page = "Last Page"
+
+[extra]
+# Put all your custom variables here
+
+[extra.show]
+tags = true
+links = true
+
+[extra.social]
+github = ""
+twitter = "w"
+facebook = ""
+instagram = "r"
+dribbble = "t"
+weibo = "y"
+linkedin = ""
+flickr = ""
