@@ -1,4 +1,6 @@
 # The URL the site will be built for
+title = "Jonas Van der Aa"
+description = "The resume of Jonas Van der Aa"
 base_url = "https://www.vdaa.website"
 theme = "anatole-zola"
 highlight_theme = "base16-ocean-light"
@@ -39,4 +41,4 @@ tags = true
 links = false
 
 [extra.social]
-github = "https://github.com/kekonn"
+github = "kekonn"
