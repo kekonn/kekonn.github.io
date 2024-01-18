@@ -13,7 +13,7 @@ function = "Certified Creatio Developer"
 tools = "Visual Studio, Creatio No-Code environment, JavaScript, C#"
 +++
 
-Develop integrations between CRM & customer systems.
+Develop integrations between CRM &amp; customer systems.
 
 * Implementing complex business rules
 * Writing code in C#
