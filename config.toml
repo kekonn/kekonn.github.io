@@ -37,7 +37,7 @@ last_page = "Last Page"
 # Put all your custom variables here
 
 [extra.show]
-tags = true
+tags = false
 links = true
 archive = false
 
