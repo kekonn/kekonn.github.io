@@ -4,6 +4,8 @@ on:
       - main
     paths-ignore:
       - '.gitignore'
+      - '.github'
+      - '.devcontainer'
 
 jobs:
   build:
