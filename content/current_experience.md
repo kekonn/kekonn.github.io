@@ -17,10 +17,10 @@ summary = "My current technical experience"
 | ASP .NET Core | 5 years  |
 | Entity Framework Core | 5 years |
 | Azure Devops | 3 years |
-| Git + GitHub | 2 years |
-| Linux (Ubuntu + Arch) | 2 years |
-| Docker (Compose) | 2 years |
+| Git + GitHub | 3 years |
+| Docker (Compose) | 3 years |
+| Linux (Ubuntu + Arch) | 3 years |
 | JetBrains Rider | 5 years |
-| Rust | 2 years |
+| Rust | 3 years |
 
 </div>
