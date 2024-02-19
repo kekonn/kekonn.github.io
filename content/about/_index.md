@@ -35,4 +35,4 @@ I have made contributions to the following Rust projects:
 * [Trunk](https://github.com/trunk-rs/trunk/pull/615): Trunk is a Rust-based wasm tool and server.
 
 ### Own projects
-* [discord-rpc-helper](https://crates.io/crates/discord-rpc-helper): A daemon for Linux PC gamers that helps set their status in Discord to the Steam game being played. At the time of writing the tool has over 850 downloads.
+* [discord-rpc-helper](https://crates.io/crates/discord-rpc-helper): A daemon for Linux PC gamers that helps set their status in Discord to the Steam game being played. At the time of writing the tool has over 1000 downloads.
