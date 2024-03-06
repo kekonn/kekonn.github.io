@@ -10,7 +10,7 @@ tags = ["experience", "project"]
 period_start = "09/2023"
 period_end = "04/2024"
 function = ".NET Developer"
-tools = "Visual Studio, JetBrains Rider, Azure DevOps, .NET Framework 4.8, .NET 6-8, RIB iTwo"
+tools = "Visual Studio, JetBrains Rider, Azure DevOps, .NET Framework 4.8, .NET 6-8, Azure Bicep"
 +++
 
 Develop integrations and set up CI/CD in Azure DevOps for these integrations. 
@@ -19,3 +19,4 @@ Develop integrations and set up CI/CD in Azure DevOps for these integrations.
 * Analyzing legacy project architecture and make improvements to monitoring
 * Set new engineering standards for new integration projects
 * Troubleshoot existing legacy projects.
+* Set up CI/CD pipelines in Azure devops using yaml and Azure Bicep
