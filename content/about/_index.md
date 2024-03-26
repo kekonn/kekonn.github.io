@@ -14,7 +14,7 @@ The short list:
 
 ### Availability 
 
-I'm looking for exciting projects in .NET or Rust starting April 2024. If you think we can work together, 📨 <a onclick="contactMail()" href="#">send me an email</a>.
+I'm looking for exciting projects in .NET or Rust starting September 2024. If you think we can work together, 📨 <a onclick="contactMail()" href="#">send me an email</a>.
 
 <script type="text/javascript">
 function contactMail() {
