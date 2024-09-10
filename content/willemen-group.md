@@ -8,7 +8,7 @@ summary = "Development and maintenance of internal API framework and the microse
 tags = ["experience", "project"]
 [extra]
 period_start = "09/2023"
-period_end = "09/2024"
+period_end = "12/2024"
 function = ".NET Developer"
 tools = "Visual Studio, JetBrains Rider, Azure DevOps, .NET Framework 4.8, .NET 6-8, Azure Bicep"
 +++

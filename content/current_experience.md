@@ -13,13 +13,13 @@ summary = "My current technical experience"
 
 | Skill | Experience |
 |-------|------------|
-| C# + .NET   | 5 years    |
-| ASP .NET Core | 5 years  |
-| Entity Framework Core | 5 years |
-| Azure Devops | 3 years |
-| Git + GitHub | 3 years |
-| Docker (Compose) | 3 years |
-| Linux (Ubuntu + Arch) | 3 years |
+| C# + .NET   | 6 years    |
+| ASP .NET Core | 6 years  |
+| Entity Framework Core | 6 years |
+| Azure Devops | 4 years |
+| Git + GitHub | 4 years |
+| Docker (Compose) | 4 years |
+| Linux (Ubuntu/Arch/NixOs) | 4 years |
 | JetBrains Rider | 5 years |
 | Rust | 3 years |
 
