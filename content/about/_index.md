@@ -33,6 +33,7 @@ I have made contributions to the following Rust projects:
 
 * [Ludusavi](https://github.com/mtkennerly/ludusavi/pull/226): Ludusavi is a cross-platform save game backup tool written in Rust.
 * [Trunk](https://github.com/trunk-rs/trunk/pull/615): Trunk is a Rust-based wasm tool and server.
+* [Warpgate](https://github.com/warp-tech/warpgate/pull/1055): Warpgate is an open-source bastion service
 
 ### Own projects
 * [discord-rpc-helper](https://crates.io/crates/discord-rpc-helper): A daemon for Linux PC gamers that helps set their status in Discord to the Steam game being played. At the time of writing the tool has over 1000 downloads.
