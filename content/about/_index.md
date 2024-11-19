@@ -37,3 +37,4 @@ I have made contributions to the following Rust projects:
 
 ### Own projects
 * [discord-rpc-helper](https://crates.io/crates/discord-rpc-helper): A daemon for Linux PC gamers that helps set their status in Discord to the Steam game being played. At the time of writing the tool has over 1000 downloads.
+* [fercord](https://github.com/kekonn/fercord): A Discord bot. Currently very basic. I am working on building an admin panel.
