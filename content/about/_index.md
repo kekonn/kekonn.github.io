@@ -11,6 +11,7 @@ The short list:
 * 🎓Karel de Grote Hogeschool - 2011 - Bachelor Application Development
 * 🏙️ Antwerp, Belgium
 * 🎂 35 years old
+* ⚧️ He/him
 
 ### Availability 
 
@@ -35,6 +36,6 @@ I have made contributions to the following Rust projects:
 * [Trunk](https://github.com/trunk-rs/trunk/pull/615): Trunk is a Rust-based wasm tool and server.
 * [Warpgate](https://github.com/warp-tech/warpgate/pull/1055): Warpgate is an open-source bastion service
 
-### Own projects
+### My projects
 * [discord-rpc-helper](https://crates.io/crates/discord-rpc-helper): A daemon for Linux PC gamers that helps set their status in Discord to the Steam game being played. At the time of writing the tool has over 1000 downloads.
 * [fercord](https://github.com/kekonn/fercord): A Discord bot. Currently very basic. I am working on building an admin panel.
