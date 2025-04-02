@@ -19,7 +19,7 @@ jobs:
       - uses: taiki-e/install-action@v2
         name: Install Zola
         with:
-          tool: zola@0.18.0
+          tool: zola@0.20.0
       - name: Build with Zola
         run: zola build
       - name: Upload GitHub Pages artifact

@@ -10,7 +10,7 @@ The short list:
 * 🗨️ Dutch and English
 * 🎓Karel de Grote Hogeschool - 2011 - Bachelor Application Development
 * 🏙️ Antwerp, Belgium
-* 🎂 34 years old
+* 🎂 35 years old
 
 ### Availability 
 

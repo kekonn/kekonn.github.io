@@ -1,10 +1,9 @@
 # The URL the site will be built for
+base_url = "https://www.vdaa.website"
 title = "Jonas Van der Aa"
 description = "My Resume"
-base_url = "https://www.vdaa.website"
 theme = "anatole-zola"
-highlight_theme = "base16-ocean-light"
-generate_feed = false
+generate_feeds = false
 default_language = "en"
 
 taxonomies = [
@@ -21,6 +20,7 @@ build_search_index = true
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
+highlight_theme = "base16-ocean-light"
 
 [languages.en.translations]
 language_name = "English"
