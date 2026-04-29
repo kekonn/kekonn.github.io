@@ -18,7 +18,7 @@ Development and maintenance of internal API framework and the microservices base
 * Collaborating with architects to implement changes to microservices
 * Analyzing and fixing performance issues, suggesting further architecture
 changes to improve performance
-* Maintaining an internal tracking sollution for the framework (internal
+* Maintaining an internal tracking solution for the framework (internal
 solution like Application Insights)
 * Providing technical support for other teams using the internal
 Framework
