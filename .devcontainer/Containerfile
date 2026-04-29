@@ -1,3 +1,5 @@
+FROM ghcr.io/getzola/zola:v0.22.1 AS zola
+
 FROM mcr.microsoft.com/devcontainers/rust:latest
 RUN apt-get update && apt-get upgrade -y && rustup update
-RUN cargo install --git https://github.com/getzola/zola.git --tag v0.18.0
+COPY --from=zola /bin/zola /bin/zola
